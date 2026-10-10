@@ -1,0 +1,1 @@
+Offline 3D pool game for Android with English and Arabic, a computer opponent, touch controls and saved progress.
